@@ -6,6 +6,7 @@ f = {}
 g = ()
 h = 5+7j
 
+# checking types
 print(type(a))
 print(type(b))
 print(type(c))
