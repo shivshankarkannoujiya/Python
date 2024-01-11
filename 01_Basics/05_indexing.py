@@ -11,7 +11,7 @@ lenght count start  : 1
 
 name = "ABHI"
 
-# +ve indexing 
+# +ve indexing
 # print(name[0])
 # print(name[1])
 # print(name[2])
@@ -24,5 +24,3 @@ name = "ABHI"
 # print(name[-2])
 # print(name[-3])
 # print(name[-4])
-
-

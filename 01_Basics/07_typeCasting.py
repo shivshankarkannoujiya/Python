@@ -20,8 +20,8 @@ listString = str(list)
 strNum = "10"
 # converting
 intNum = int(strNum)
-# print(type(strNum))
-# print(type(intNum))
+print(type(strNum))
+print(type(intNum))
 
 
 # 4 int -> float
