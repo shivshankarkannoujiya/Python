@@ -1,3 +1,7 @@
+"""
+TUPLE => IMMUTABLE
+"""
+
 masala_spices = ("cardamom", "cloves", "cinamon")
 
 # Unpacking
