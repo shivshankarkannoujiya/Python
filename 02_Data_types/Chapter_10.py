@@ -41,5 +41,7 @@ extra_spices = {"cardamon": "crushed", "ginger": "sliced"}
 chai_recipe.update(extra_spices)
 print(f"Updated Chai recipe: {chai_recipe}")
 
-# Get value safely: Like => Optionally accessig
+# Get value safely: Like => Optionally accessig: .get()
 
+customer_note = chai_order.get("customer_note", "NO NOTE")
+print(f"Customer Note is: {customer_note}")
